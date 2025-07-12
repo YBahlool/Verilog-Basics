@@ -20,7 +20,8 @@ Given three inputs `a`, `b`, and `c`, this module evaluates whether the 3-bit bi
 
 This Verilog module is based on the following schematic:
 
-![Schematic](Screenshot.png)
+<img width="957" height="550" alt="Screenshot 2025-07-12 at 8 12 18 PM" src="https://github.com/user-attachments/assets/fc7732d0-75b8-4e1c-b7ec-5acd2f8b52a4" />
+
 
 ### Gate-level components used:
 - NOT gate
