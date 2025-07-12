@@ -32,14 +32,6 @@ The combination of these gates is structured to evaluate a specific boolean cond
 
 ---
 
-## File Structure
-
-- `prime_checker.v`: The Verilog module that implements the schematic.
-- `prime_checker_tb.v`: A testbench that verifies correct detection of prime values.
-- `Screenshot.png`: Reference image of the original logic schematic.
-
----
-
 ## How to Run
 
 This project can be simulated using tools such as:
@@ -50,8 +42,3 @@ This project can be simulated using tools such as:
 - Icarus Verilog (open source)
 
 The testbench runs through all input combinations from `000` to `111` and prints whether the output is high (indicating a prime number).
-
----
-
-## Example Output
-
