@@ -1,4 +1,3 @@
-// Code your design here
 module challenge1 (
   input C,
   input B,
